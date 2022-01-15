@@ -1,9 +1,9 @@
-## Hey there!
+## Hey there! 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-martins-3b1059127/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:16rhuan16@gmail.com)
 
 
 
- <s>A banner is coming, i promise </s>
+ <s>A banner is coming, i promise </s> 
 
 
 I'm a developer who loves technology and is always looking to learn new things and bring ideas to life.
@@ -36,11 +36,15 @@ I'm a developer who loves technology and is always looking to learn new things a
 
 
 
-### Some of my projects:
+## Some of my projects: 
 
 | *   | Repository  | Description     |
 | ---|    ----   |          ---   |
 |     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
 |     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
 
-## See ya!
+   <br />
+   <br />
+ <div align='center'>
+<h1> See ya! </h1>
+ </div>
