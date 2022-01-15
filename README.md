@@ -38,5 +38,9 @@ I'm a developer who loves technology and is always looking to learn new things a
 
 ### Some of my projects:
 
+| *   | Repository  | Description     |
+| ---|    ----   |          ---   |
+|     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
+|     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
 
 ## See ya!
