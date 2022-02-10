@@ -13,6 +13,8 @@ I'm a developer who loves technology and is always looking to learn new things a
 ## I'm currently learning and improving the following technologies:
 ### • Backend
 - Node
+- Banco de dados relacionais
+
 
 ### • Front-End
 - HTML
