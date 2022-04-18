@@ -13,7 +13,7 @@ I'm a developer who loves technology and is always looking to learn new things a
 ## I'm currently learning and improving the following technologies:
 ### • Backend
 - Node
-- Banco de dados relacionais
+- MySQL
 
 
 ### • Front-End
@@ -22,6 +22,7 @@ I'm a developer who loves technology and is always looking to learn new things a
 - DOM
 - JavaScript
 - React
+- Typescript
 
 <br />
 <br />
@@ -43,6 +44,10 @@ I'm a developer who loves technology and is always looking to learn new things a
 | *   | Repository  | Description     |
 | ---|    ----   |          ---   |
 |     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
+|     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
+ |     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
+|     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
+ |     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
 |     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
 
    <br />
