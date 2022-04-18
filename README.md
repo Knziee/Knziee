@@ -43,12 +43,13 @@ I'm a developer who loves technology and is always looking to learn new things a
 
 | *   | Repository  | Description     |
 | ---|    ----   |          ---   |
-|     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
+|     | [Knziee/Subway-Nutri-Fix](https://github.com/Knziee/Subway-Nutri-Fix)    | Fix for fast food nutrition tables |
+|     | [Knziee/desafio-chefao](https://github.com/Knziee/desafio-chefao)    | Website for a coffee shop linked with a database |
+ |     | [Knziee/portal-de-noticias](https://github.com/Knziee/portal-de-noticias)    | Modern version of the marvel universe daily bugle |
+|     | [Knziee/lar-tia-edna](https://github.com/Knziee/lar-tia-edna)    | Volunteer work for an NGO who takes care of children in situations of abandonment|
+ |     | [Knziee/Watch-List](https://github.com/Knziee/Watch-List)    | My first react project |
 |     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
  |     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
-|     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
- |     | [Knziee/Fropp_Figures](https://github.com/Knziee/Fropp_Figures)    | An e-commerce site using only html and css |
-|     | [Knziee/agencia-cronos-adm](https://github.com/Knziee/agencia-cronos-adm)    | A crud system with pure JS|
 
    <br />
    <br />
