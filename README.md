@@ -3,9 +3,6 @@
 
 
 
- <s>The banner is coming, i promise </s> 
-
-
 I'm a developer who loves technology and is always looking to learn new things and bring ideas to life.
 
 
